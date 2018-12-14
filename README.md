@@ -1,2 +1,2 @@
-# rh
-react home app
+# RH
+React Home App
